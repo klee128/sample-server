@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/klee128/sample-server#readme",
   "devDependencies": {
-    "pm2": "^4.5.4"
+    "pm2": "^4.5.4",
+    "express": "^4.17.1"
   }
 }
